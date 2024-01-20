@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saurav Yadav</h1>
+ <h1 align="center">Hi 👋, I'm Saurav Yadav</h1>
 <h3 align="center">A passionate and dedicated B.Sc. Agriculture Graduate seeking MS/PhD Research Assistantship.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravgithubyadav&label=Profile%20views&color=0e75b6&style=flat" alt="sauravgithubyadav" /> </p>
@@ -26,10 +26,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravgithubyadav&show_icons=true&locale=en&layout=compact" alt="sauravgithubyadav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravgithubyadav&show_icons=true&locale=en" alt="sauravgithubyadav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravgithubyadav&" alt="sauravgithubyadav" /></p>
+

@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yadavsaurav98600@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/s!Aj0gFMs7YeqEjkZw_0Gn6btPPRWQ?e=x2Wi0V](https://1drv.ms/w/s!Aj0gFMs7YeqEjkZw_0Gn6btPPRWQ?e=x2Wi0V)
+- 📄 Know about my experiences [Equipped with both theoretical knowledge and practical expertise, I possess the skills necessary for various fieldwork and laboratory tasks, including DNA extraction. My previous experiences encompass fungi isolation from infected seeds and plant samples, identification of fungal species, utilization of fungal dual culture and agar well diffusion techniques, fungal and inoculum preparation, varietal screening, and disease scoring. Additionally, my proficiency in calculating disease incidence, severity, and AUDPC further strengthens my capabilities.](Equipped with both theoretical knowledge and practical expertise, I possess the skills necessary for various fieldwork and laboratory tasks, including DNA extraction. My previous experiences encompass fungi isolation from infected seeds and plant samples, identification of fungal species, utilization of fungal dual culture and agar well diffusion techniques, fungal and inoculum preparation, varietal screening, and disease scoring. Additionally, my proficiency in calculating disease incidence, severity, and AUDPC further strengthens my capabilities.)
 
 - ⚡ Fun fact **I think I am humorous.**
 
@@ -33,4 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravgithubyadav&show_icons=true&locale=en" alt="sauravgithubyadav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravgithubyadav&" alt="sauravgithubyadav" /></p>
+
 
